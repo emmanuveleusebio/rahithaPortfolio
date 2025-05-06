@@ -101,7 +101,7 @@ a, button, i{
     
 }
 .home-img{
-    width: 50%;
+    width: 100%;
 }
 .heading{
     color: #F26C4F;
@@ -490,7 +490,7 @@ a, button, i{
 
 @media only screen and (max-width: 1215px) {
     .img-container{
-        width: 77%;
+        width: 100%;
     }
     .home-content{
         width: 100%;
