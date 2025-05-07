@@ -4,7 +4,7 @@ function sendMessage() {
     const phone = document.getElementById('phone').value;
     const message = document.getElementById('message').value;
 
-    const whatsappNumber = 7025887273; 
+    const whatsappNumber = 7736571253; 
     const text = `Name: ${name}%0AEmail: ${email}%0APhone: ${phone}%0AMessage: ${message}`;
 
     const url = `https://wa.me/${whatsappNumber}?text=${text}`;
